@@ -1,0 +1,302 @@
+[
+  {
+    "id": "S01",
+    "label": "2019 government statistical table",
+    "url": "https://static.pib.gov.in/WriteReadData/userfiles/GE2024/files/basic-html/page67.html",
+    "research_calls": [
+      31,
+      32
+    ]
+  },
+  {
+    "id": "S02",
+    "label": "2024 government summary",
+    "url": "https://newindiasamachar.pib.gov.in/WriteReadData/Magazine/2024/Jun/M202406161.pdf",
+    "research_calls": [
+      12
+    ]
+  },
+  {
+    "id": "S03",
+    "label": "Lokniti election tables",
+    "url": "https://www.lokniti.org/media/PDF-upload/1755059632_52889800_party_performance.pdf",
+    "research_calls": [
+      6,
+      7,
+      11
+    ]
+  },
+  {
+    "id": "S04",
+    "label": "Constituency results",
+    "url": "https://indianexpress.com/elections/2024-uttar-pradesh-lok-sabha-election-results-full-list-of-winners-on-all-80-seats-of-uttar-pradesh-9365613/",
+    "research_calls": [
+      29
+    ]
+  },
+  {
+    "id": "S05",
+    "label": "Haryana results",
+    "url": "https://indianexpress.com/elections/haryana-elections-results-full-list-of-winners-9607858/",
+    "research_calls": [
+      7
+    ]
+  },
+  {
+    "id": "S06",
+    "label": "public broadcaster\u2019s final summary",
+    "url": "https://newsonair.gov.in/bjp-led-mahayuti-alliance-sweeps-assembly-elections-in-maharashtra-jmm-led-india-bloc-retains-power-in-jharkhand/",
+    "research_calls": [
+      7
+    ]
+  },
+  {
+    "id": "S07",
+    "label": "ADR\u2019s ECI-derived Delhi table",
+    "url": "https://www.adrindia.org/sites/default/files/English_Analysis_of_Funds_Collected_Expenditure_Incurred_Political_Parties_Delhi_Election_2025.pdf",
+    "research_calls": [
+      23,
+      30
+    ]
+  },
+  {
+    "id": "S08",
+    "label": "Bihar results",
+    "url": "https://halifax.citynews.ca/2025/11/14/modis-coalition-leads-in-a-key-indian-state-election/",
+    "research_calls": [
+      34
+    ]
+  },
+  {
+    "id": "S09",
+    "label": "ECI Assam",
+    "url": "https://results.eci.gov.in/ResultAcGenMay2026/partywiseresult-S03.htm",
+    "research_calls": [
+      2,
+      9
+    ]
+  },
+  {
+    "id": "S10",
+    "label": "ECI Tamil Nadu",
+    "url": "https://results.eci.gov.in/ResultAcGenMay2026/partywiseresult-S22.htm",
+    "research_calls": [
+      2,
+      3,
+      10,
+      15
+    ]
+  },
+  {
+    "id": "S11",
+    "label": "CEO Kerala final candidates",
+    "url": "https://www.ceo.kerala.gov.in/ceokerala/pdf/govt_orders/legislative-assembly-2026/statistical-report/2-List_of_Successful_Candidates_1778164525.pdf",
+    "research_calls": [
+      3
+    ]
+  },
+  {
+    "id": "S12",
+    "label": "Falta final report",
+    "url": "https://www.newindianexpress.com/states/west-bengal/2026/May/24/counting-underway-for-falta-assembly-repoll-in-bengal-bjp-takes-commanding-lead-after-five-round",
+    "research_calls": [
+      28
+    ]
+  },
+  {
+    "id": "S13",
+    "label": "PRS April review",
+    "url": "https://prsindia.org/policy/monthly-policy-review/april-2026",
+    "research_calls": [
+      4,
+      20
+    ]
+  },
+  {
+    "id": "S14",
+    "label": "contemporary NDA total, printed pages 1\u20132",
+    "url": "https://assets.carnegieendowment.org/static/files/Vaishnav%20Mallory%20-%20Reassessing%204th%20Party%20System.pdf",
+    "research_calls": [
+      16,
+      20,
+      23,
+      24,
+      32
+    ]
+  },
+  {
+    "id": "S15",
+    "label": "ADR initial Bengal tally",
+    "url": "https://www.adrindia.org/sites/default/files/West_Bengal_Assembly_Elections_2026_Criminal_and_Financial_background_details_of_Winning_Candidates_FinalVer_Eng_0.pdf",
+    "research_calls": [
+      3
+    ]
+  },
+  {
+    "id": "S16",
+    "label": "Carnegie paper",
+    "url": "https://carnegieendowment.org/research/2024/09/india-election-bjp-party-politics",
+    "research_calls": [
+      14,
+      17,
+      22
+    ]
+  },
+  {
+    "id": "S17",
+    "label": "Congress manifesto",
+    "url": "https://manifesto.inc.in/en/equity/",
+    "research_calls": [
+      5
+    ]
+  },
+  {
+    "id": "S18",
+    "label": "Cabinet announcement",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2125526&lang=1&reg=1",
+    "research_calls": [
+      2
+    ]
+  },
+  {
+    "id": "S19",
+    "label": "2026 census backgrounder",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2255461&lang=1&reg=3",
+    "research_calls": [
+      2
+    ]
+  },
+  {
+    "id": "S20",
+    "label": "Survey, questions 11a\u201311b",
+    "url": "https://lokniti.org/media/PDF-upload/1718435207_67606300_download_report.pdf",
+    "research_calls": [
+      1,
+      2,
+      3,
+      5,
+      14,
+      24
+    ]
+  },
+  {
+    "id": "S21",
+    "label": "BJP manifesto document",
+    "url": "https://www.scobserver.in/wp-content/uploads/2024/04/2024-BJP-Election-Manifest-English.pdf",
+    "research_calls": [
+      5,
+      30,
+      32
+    ]
+  },
+  {
+    "id": "S22",
+    "label": "Lokniti\u2019s original newspaper compilation, PDF pages 2\u20133",
+    "url": "https://lokniti.org/media/upload_files/Lokniti-CSDS%20Maharashtra.pdf",
+    "research_calls": [
+      14,
+      25,
+      30
+    ]
+  },
+  {
+    "id": "S23",
+    "label": "Lokniti Jharkhand analysis",
+    "url": "https://lokniti.org/media/upload_files/Jharkhand%20Articles%20%281%29.pdf",
+    "research_calls": [
+      16,
+      30
+    ]
+  },
+  {
+    "id": "S24",
+    "label": "Budget speech, paragraphs 30\u201336",
+    "url": "https://www.indiabudget.gov.in/budget2024-25/doc/Budget_Speech.pdf",
+    "research_calls": [
+      7,
+      11
+    ]
+  },
+  {
+    "id": "S25",
+    "label": "PRS April 2025 review",
+    "url": "https://prsindia.org/policy/monthly-policy-review/april-2025",
+    "research_calls": [
+      19
+    ]
+  },
+  {
+    "id": "S26",
+    "label": "public broadcaster\u2019s division report",
+    "url": "https://newsonair.gov.in/hi/131st-constitutional-amendment-bill-not-passed-lok-sabha-vote-count/",
+    "research_calls": [
+      20
+    ]
+  },
+  {
+    "id": "S27",
+    "label": "PRS session wrap",
+    "url": "https://prsindia.org/sessiontrack/monsoon-session-2026/session-wrap",
+    "research_calls": [
+      21,
+      22
+    ]
+  },
+  {
+    "id": "S28",
+    "label": "September 29 debate",
+    "url": "https://www.indiatoday.in/india/story/delimitation-federalism-debate-south-parties-warn-on-voice-bjp-backs-process-3005847-2026-09-29",
+    "research_calls": [
+      20
+    ]
+  },
+  {
+    "id": "S29",
+    "label": "PTI account",
+    "url": "https://theprint.in/india/after-assembly-revolt-tmc-split-reaches-lok-sabha-as-20-mps-form-separate-bloc-back-nda/2954472/",
+    "research_calls": [
+      21
+    ]
+  },
+  {
+    "id": "S30",
+    "label": "merger announcement",
+    "url": "https://www.ndtv.com/india-news/trinamool-rebel-bloc-to-merge-with-nationalist-citizens-party-kakoli-ghosh-11635562/",
+    "research_calls": [
+      21
+    ]
+  },
+  {
+    "id": "S31",
+    "label": "Sharma analysis",
+    "url": "https://www.theweek.in/voices/columns/pratul-sharma/2026/06/19/anti-defection-law-tenth-schedule-coalition-politics-parliament-monsoon-session.html",
+    "research_calls": [
+      20,
+      21
+    ]
+  },
+  {
+    "id": "S32",
+    "label": "Study metadata",
+    "url": "https://www.lokniti.org/national-election-studies",
+    "research_calls": [
+      1,
+      2,
+      3,
+      6,
+      14
+    ]
+  },
+  {
+    "id": "S33",
+    "label": "Ray\u2019s original paper",
+    "url": "https://debrajray.com/wp-content/uploads/2026/05/SIR2026.pdf",
+    "research_calls": [
+      3,
+      4,
+      5,
+      6,
+      11
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+# Research Question
+
+Was India's 2024 general-election result a one-off correction or evidence of a durable political realignment?
+
+Assess changes in vote share, coalition strategy, regional outcomes, major voter blocs, and governing constraints through 11 October 2026 (Asia/Kolkata). Separate verified facts from interpretation; prioritize Election Commission data, party documents, parliamentary records, government publications, and named expert analysis. Identify the strongest case for each conclusion and where the evidence is genuinely inconclusive.
+
+Deliver a 1,500–2,500 word decision memo with an executive conclusion, competing interpretations, a compact evidence table, direct source links, and a section explicitly labelled "Uncertainties and limits." Do not present political commentary as fact, and cite direct URLs for every material factual claim.

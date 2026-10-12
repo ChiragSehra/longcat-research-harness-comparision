@@ -1,0 +1,29 @@
+# LongCat-DeepResearch Usage Summary
+
+## By Stage
+
+| Stage | LLM | Search | Fetch | Input tok | Output tok | Reasoning tok | Total tok | Output budget | Forced final | 64K retry |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+
+## By Agent
+
+| Stage | Call type | Actor | LLM | Search | Fetch | Input tok | Output tok | Reasoning tok | Total tok | Output budget | Forced final | 64K retry |
+|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+
+## Totals
+
+```json
+{
+  "llm_calls": 0,
+  "max_output_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "reasoning_tokens": 0,
+  "total_tokens": 0,
+  "search_calls": 0,
+  "fetch_calls": 0,
+  "rejected_tool_calls": 0,
+  "forced_terminal_calls": 0,
+  "terminal_retry_calls": 0
+}
+```

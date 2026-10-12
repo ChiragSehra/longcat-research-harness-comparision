@@ -1,0 +1,3 @@
+Saved [benchmark/results/codex/report.md](/Users/cs/Desktop/fun/dsh-claude-code-mods/longcat-research-harness-comparision/benchmark/results/codex/report.md) and [benchmark/results/codex/run-note.md](/Users/cs/Desktop/fun/dsh-claude-code-mods/longcat-research-harness-comparision/benchmark/results/codex/run-note.md).
+
+The memo concludes that 2024 was a consequential correction within a resilient BJP-centred system, rather than proven durable national realignment. Regional shifts and governing constraints remain significant, with uncertainty documented in the reproducible claim/source trail.

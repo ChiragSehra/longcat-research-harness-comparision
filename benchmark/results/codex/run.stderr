@@ -1,0 +1,4 @@
+Reading additional input from stdin...
+2026-10-12T05:30:31.533472Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-10-12T05:33:50.855127Z  WARN codex_sandboxing::violation: recorded sandbox violation: resource=filesystem backend=seatbelt reason=operation_not_permitted path=unknown
+2026-10-12T05:40:22.043459Z ERROR codex_core::tools::router: error=apply_patch verification failed: invalid patch: multiple operations target /Users/cs/Desktop/fun/dsh-claude-code-mods/longcat-research-harness-comparision/benchmark/results/codex/research-log.json
